@@ -1,0 +1,71 @@
+name,age,monthly_income_npr,credit_score,existing_loans,loan_status
+Purnima Bhandari,28,31049,357,1,Not Approved
+Laxmi Yadav,55,17082,307,1,Not Approved
+Bikram Bogati,53,50713,407,1,Not Approved
+Devi Ghimire,38,25463,478,2,Not Approved
+Ram Bhandari,30,72059,516,1,Hold
+Kumar Tamang,43,17847,486,2,Not Approved
+Sarala Rai,45,38700,447,1,Not Approved
+Ram Ghimire,23,55229,549,1,Hold
+Kabita Gautam,50,103283,703,2,Approved
+Sujata Bhandari,25,31043,341,2,Not Approved
+Puja Neupane,56,18665,358,1,Not Approved
+Bhim Lama,46,139843,795,2,Approved
+Suresh Khadka,52,80071,526,2,Hold
+Pramila Yadav,56,43077,449,2,Not Approved
+Tika Basnet,29,83087,678,0,Approved
+Naresh Koirala,48,54052,419,3,Not Approved
+Hema Dhungana,21,50190,492,2,Not Approved
+Bal Rijal,42,90365,766,0,Approved
+Sarmila Bhandari,37,21973,460,2,Not Approved
+Hema Bhusal,53,129971,691,2,Approved
+Parbati Karki,21,22331,392,2,Not Approved
+Hema Adhikari,36,111849,667,2,Approved
+Manisha Aryal,29,60821,557,3,Hold
+Dilip Dhungana,48,63182,569,2,Hold
+Krishna Rai,44,79588,520,1,Hold
+Rajesh Rai,42,30080,450,1,Not Approved
+Rajan Khadka,24,82058,734,0,Approved
+Yubraj Sapkota,38,88671,835,2,Approved
+Dilip Kandel,36,62478,514,1,Hold
+Uma Bhandari,43,18550,472,3,Not Approved
+Hari Paudel,24,22161,363,1,Not Approved
+Manisha Rai,49,33254,418,1,Not Approved
+Sujata Karki,49,115427,653,0,Approved
+Anjana Karki,36,46546,354,2,Not Approved
+Ganesh Kandel,31,105586,717,1,Approved
+Sita Poudyal,56,99445,705,0,Approved
+Kishor Devkota,55,18746,312,3,Not Approved
+Dinesh Aryal,54,113281,670,0,Approved
+Prem Thapa,25,52334,363,3,Not Approved
+Bhim Bista,60,53251,444,3,Not Approved
+Uma Rana,34,105938,683,2,Approved
+Kalpana Ojha,50,54754,492,2,Hold
+Sujata Pandey,27,48153,367,1,Not Approved
+Sarala Rana,25,90338,762,2,Approved
+Ramesh Adhikari,60,51346,376,3,Not Approved
+Ganesh Aryal,37,86256,529,2,Hold
+Anita Bista,34,121565,717,2,Approved
+Devi Shrestha,24,33132,311,1,Not Approved
+Indira Koirala,29,108956,791,2,Approved
+Kumar Thapa,21,137875,826,0,Approved
+Anjana Thapa,44,17741,378,2,Not Approved
+Rabin Joshi,43,21736,390,3,Not Approved
+Maya Magar,60,65514,531,1,Hold
+Nabin Gautam,42,66263,558,1,Hold
+Bijay Katuwal,27,80847,546,1,Hold
+Dilip Bhattarai,43,64915,547,1,Hold
+Santosh Dhungana,46,84549,847,1,Approved
+Gita Bista,53,50141,384,1,Not Approved
+Bal Neupane,32,119096,761,1,Approved
+Bishnu Nepal,48,52787,348,2,Not Approved
+Purnima Poudyal,48,50287,475,3,Not Approved
+Dilip Tamang,33,36639,459,2,Not Approved
+Ganesh Koirala,40,36376,403,3,Not Approved
+Anjana Magar,29,39847,473,3,Not Approved
+Laxmi Kandel,60,15026,377,2,Not Approved
+Rajan Sapkota,58,43977,472,1,Not Approved
+Devi Poudel,31,123506,812,2,Approved
+Bishnu Khadka,36,93050,687,0,Approved
+Khem Subedi,51,52727,349,3,Not Approved
+Manisha Shrestha,52,122995,826,0,Approved
