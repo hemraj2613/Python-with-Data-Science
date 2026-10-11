@@ -1,0 +1,9 @@
+Image sources and licences
+
+astronaut.png   Photograph of Eileen Collins from the NASA Great Images database. No known copyright restrictions, public domain.
+coffee.png      Photograph by Rachel Michetti, courtesy of Pikolo Espresso Bar. CC0.
+cat.png         Photograph of Chelsea the cat by Stefan van der Walt. CC0.
+rocket.jpg      Launch photo of a Falcon 9 rocket by SpaceX, released into the public domain.
+shapes_scene.png, color_palette.png, house_scene.png   Created for this course. Free to use.
+
+my_photos/      Put your own photos here for the stretch tasks. Only use photos you took yourself, and do not include other people without their permission.
