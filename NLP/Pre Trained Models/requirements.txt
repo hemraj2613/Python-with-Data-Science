@@ -1,0 +1,10 @@
+# Install with:  pip install -r requirements.txt
+# (tested with transformers 4.57, torch 2.x, sentence-transformers 5.x on Python 3.14)
+transformers>=4.40,<5      # must be version 4: version 5 removed some pipelines used in this lab
+torch>=2.0
+sentence-transformers>=3.0
+sentencepiece         # needed by the Nepali models (XLM-RoBERTa, NLLB)
+protobuf               # needed by the Nepali models
+scikit-learn
+pandas
+numpy
